@@ -1,6 +1,6 @@
 <div align="center">
 
-<image src="./readmeHeader.png" />
+<image src="./assets/readmeHeader.png" />
 
 [![Build Status](https://travis-ci.com/sarthakpranesh/Covid19.svg?branch=master)](https://travis-ci.com/sarthakpranesh/Covid19)
 [![GitHub top language](https://img.shields.io/github/languages/top/sarthakpranesh/Covid19)](https://github.com/sarthakpranesh/Covid19)

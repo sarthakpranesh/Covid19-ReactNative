@@ -55,7 +55,7 @@
               <imageView
                 clipsSubviews="YES"
                 userInteractionEnabled="NO"
-                contentMode="scaleAspectFill"
+                contentMode="scaleAspectFit"
                 horizontalHuggingPriority="251"
                 verticalHuggingPriority="251"
                 translatesAutoresizingMaskIntoConstraints="NO"

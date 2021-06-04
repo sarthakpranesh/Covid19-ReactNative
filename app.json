@@ -1,7 +1,18 @@
 {
   "name": "Covid19",
   "displayName": "Covid19",
+  "icon": "./assets/icon.png",
   "expo": {
-    "platform": ["web"]
+    "name": "Covid19",
+    "slug": "Covid19",
+    "version": "4.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splashscreen.png",
+      "backgroundColor": "#B1E8FF",
+      "resizeMode": "cover"
+    }
   }
 }
