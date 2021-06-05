@@ -4,11 +4,13 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "web": "expo start --web",
+    "electron": "expo-electron start",
     "start": "react-native start",
     "test": "jest"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.13.0",
+    "electron": "^6.0.12",
     "expo": "~41.0.1",
     "expo-font": "~9.1.0",
     "expo-location": "~12.0.4",
@@ -34,6 +36,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
+    "@expo/electron-adapter": "^0.0.55",
     "@expo/webpack-config": "^0.12.76",
     "@types/react": "~16.9.35",
     "@types/react-native": "~0.63.2",
