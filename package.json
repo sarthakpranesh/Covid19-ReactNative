@@ -17,6 +17,8 @@
   ],
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.14.1",
+    "electron": "^6.0.12",
+    "electron-redux": "^1.5.4",
     "expo": "^40.0.1",
     "expo-splash-screen": "^0.9.0",
     "hermes-engine": "0.5.2-rc1",
@@ -41,6 +43,7 @@
   "devDependencies": {
     "@babel/core": "^7.10.0",
     "@babel/runtime": "^7.10.0",
+    "@expo/electron-adapter": "^0.0.55",
     "@expo/webpack-config": "^0.12.61",
     "@react-native-community/eslint-config": "^1.1.0",
     "@types/jest": "^26.0.10",
@@ -53,6 +56,7 @@
     "@typescript-eslint/eslint-plugin": "^3.9.0",
     "@typescript-eslint/parser": "^3.9.0",
     "babel-jest": "^26.0.1",
+    "babel-loader": "^8.2.2",
     "babel-plugin-module-resolver": "^4.1.0",
     "babel-plugin-react-native-web": "^0.15.0",
     "babel-plugin-transform-remove-console": "^6.9.4",

@@ -10,9 +10,10 @@ import {
   TouchableOpacity,
   Linking
 } from 'react-native'
-import { View as MotiView } from 'moti'
+// import { View as MotiView } from 'moti'
 
 // importing components
+import MotiView from '../components/MotiView/MotiView'
 import { Github, Vaccine } from '../components/Svgs/index'
 import SafeAreaView from '../components/SafeAreaView'
 import Country from '../components/Country'
